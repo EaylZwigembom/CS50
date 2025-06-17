@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to QEyal Zwigenbom's CS50 Notes
 ---
 
 This is a blank Quartz installation.

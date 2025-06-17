@@ -2,5 +2,4 @@
 title: Welcome to Eyal Zwigenbom's CS50 Notes
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is Eyal Zwigenbom's notes on the Harvard University course to computer science introduction: CS50.
